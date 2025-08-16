@@ -46,4 +46,4 @@ It’s not meant as a polished showcase, but as a **backstage pass** to how my c
 
 ## 💌 Closing Thought
 
-Characters aren’t born in a single draft — they’re stitched together from trial, error, and a lot of strange little sparks. This repo is a scrapbook of those sparks.
+Characters aren’t born in a single draft, they’re stitched together from trial, error, and a lot of strange little sparks. This repo is a scrapbook of those sparks.
